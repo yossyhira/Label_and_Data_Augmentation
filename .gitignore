@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Labels & images (必要なら)
+labels/
+images/
+
+# Qt Designer files
+*.ui
